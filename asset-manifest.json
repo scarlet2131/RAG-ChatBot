@@ -1,17 +1,24 @@
 {
   "files": {
     "main.css": "/scarlet2131/RAG-ChatBot/static/css/main.7eeffb1e.chunk.css",
-    "main.js": "/scarlet2131/RAG-ChatBot/static/js/main.771bcf99.chunk.js",
-    "main.js.map": "/scarlet2131/RAG-ChatBot/static/js/main.771bcf99.chunk.js.map",
-    "runtime~main.js": "/scarlet2131/RAG-ChatBot/static/js/runtime~main.76ea9a0f.js",
-    "runtime~main.js.map": "/scarlet2131/RAG-ChatBot/static/js/runtime~main.76ea9a0f.js.map",
-    "static/js/2.2b2162b8.chunk.js": "/scarlet2131/RAG-ChatBot/static/js/2.2b2162b8.chunk.js",
-    "static/js/2.2b2162b8.chunk.js.map": "/scarlet2131/RAG-ChatBot/static/js/2.2b2162b8.chunk.js.map",
-    "static/js/3.3b6fb9ae.chunk.js": "/scarlet2131/RAG-ChatBot/static/js/3.3b6fb9ae.chunk.js",
-    "static/js/3.3b6fb9ae.chunk.js.map": "/scarlet2131/RAG-ChatBot/static/js/3.3b6fb9ae.chunk.js.map",
+    "main.js": "/scarlet2131/RAG-ChatBot/static/js/main.fed2775c.chunk.js",
+    "main.js.map": "/scarlet2131/RAG-ChatBot/static/js/main.fed2775c.chunk.js.map",
+    "runtime-main.js": "/scarlet2131/RAG-ChatBot/static/js/runtime-main.8de15189.js",
+    "runtime-main.js.map": "/scarlet2131/RAG-ChatBot/static/js/runtime-main.8de15189.js.map",
+    "static/js/2.e706de12.chunk.js": "/scarlet2131/RAG-ChatBot/static/js/2.e706de12.chunk.js",
+    "static/js/2.e706de12.chunk.js.map": "/scarlet2131/RAG-ChatBot/static/js/2.e706de12.chunk.js.map",
+    "static/js/3.a1e12d5d.chunk.js": "/scarlet2131/RAG-ChatBot/static/js/3.a1e12d5d.chunk.js",
+    "static/js/3.a1e12d5d.chunk.js.map": "/scarlet2131/RAG-ChatBot/static/js/3.a1e12d5d.chunk.js.map",
     "index.html": "/scarlet2131/RAG-ChatBot/index.html",
-    "precache-manifest.ad04571bd1411abc04905e9be059d47d.js": "/scarlet2131/RAG-ChatBot/precache-manifest.ad04571bd1411abc04905e9be059d47d.js",
+    "precache-manifest.a67bd409f85028034335fe5f75f07e77.js": "/scarlet2131/RAG-ChatBot/precache-manifest.a67bd409f85028034335fe5f75f07e77.js",
     "service-worker.js": "/scarlet2131/RAG-ChatBot/service-worker.js",
-    "static/css/main.7eeffb1e.chunk.css.map": "/scarlet2131/RAG-ChatBot/static/css/main.7eeffb1e.chunk.css.map"
-  }
+    "static/css/main.7eeffb1e.chunk.css.map": "/scarlet2131/RAG-ChatBot/static/css/main.7eeffb1e.chunk.css.map",
+    "static/js/2.e706de12.chunk.js.LICENSE.txt": "/scarlet2131/RAG-ChatBot/static/js/2.e706de12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8de15189.js",
+    "static/js/2.e706de12.chunk.js",
+    "static/css/main.7eeffb1e.chunk.css",
+    "static/js/main.fed2775c.chunk.js"
+  ]
 }
