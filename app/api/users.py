@@ -9,6 +9,7 @@ router = APIRouter()
 async def userWelcome():
     return "Hey!, Welcome to MongoDB. Please let me know how can I help you today!"
 
+
 @router.post("/chat")
 async def userChat(request: ChatRequest):
     print("reaching here ")
