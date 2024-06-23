@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/scarlet2131/RAG-ChatBot/static/css/main.7eeffb1e.chunk.css",
-    "main.js": "/scarlet2131/RAG-ChatBot/static/js/main.fed2775c.chunk.js",
-    "main.js.map": "/scarlet2131/RAG-ChatBot/static/js/main.fed2775c.chunk.js.map",
-    "runtime-main.js": "/scarlet2131/RAG-ChatBot/static/js/runtime-main.8de15189.js",
-    "runtime-main.js.map": "/scarlet2131/RAG-ChatBot/static/js/runtime-main.8de15189.js.map",
-    "static/js/2.e706de12.chunk.js": "/scarlet2131/RAG-ChatBot/static/js/2.e706de12.chunk.js",
-    "static/js/2.e706de12.chunk.js.map": "/scarlet2131/RAG-ChatBot/static/js/2.e706de12.chunk.js.map",
-    "static/js/3.a1e12d5d.chunk.js": "/scarlet2131/RAG-ChatBot/static/js/3.a1e12d5d.chunk.js",
-    "static/js/3.a1e12d5d.chunk.js.map": "/scarlet2131/RAG-ChatBot/static/js/3.a1e12d5d.chunk.js.map",
-    "index.html": "/scarlet2131/RAG-ChatBot/index.html",
-    "precache-manifest.a67bd409f85028034335fe5f75f07e77.js": "/scarlet2131/RAG-ChatBot/precache-manifest.a67bd409f85028034335fe5f75f07e77.js",
-    "service-worker.js": "/scarlet2131/RAG-ChatBot/service-worker.js",
-    "static/css/main.7eeffb1e.chunk.css.map": "/scarlet2131/RAG-ChatBot/static/css/main.7eeffb1e.chunk.css.map",
-    "static/js/2.e706de12.chunk.js.LICENSE.txt": "/scarlet2131/RAG-ChatBot/static/js/2.e706de12.chunk.js.LICENSE.txt"
+    "main.css": "/RAG-ChatBot/static/css/main.7eeffb1e.chunk.css",
+    "main.js": "/RAG-ChatBot/static/js/main.fed2775c.chunk.js",
+    "main.js.map": "/RAG-ChatBot/static/js/main.fed2775c.chunk.js.map",
+    "runtime-main.js": "/RAG-ChatBot/static/js/runtime-main.6042c664.js",
+    "runtime-main.js.map": "/RAG-ChatBot/static/js/runtime-main.6042c664.js.map",
+    "static/js/2.e706de12.chunk.js": "/RAG-ChatBot/static/js/2.e706de12.chunk.js",
+    "static/js/2.e706de12.chunk.js.map": "/RAG-ChatBot/static/js/2.e706de12.chunk.js.map",
+    "static/js/3.a1e12d5d.chunk.js": "/RAG-ChatBot/static/js/3.a1e12d5d.chunk.js",
+    "static/js/3.a1e12d5d.chunk.js.map": "/RAG-ChatBot/static/js/3.a1e12d5d.chunk.js.map",
+    "index.html": "/RAG-ChatBot/index.html",
+    "precache-manifest.a7f23c9f86a5e79684a96a0437992fed.js": "/RAG-ChatBot/precache-manifest.a7f23c9f86a5e79684a96a0437992fed.js",
+    "service-worker.js": "/RAG-ChatBot/service-worker.js",
+    "static/css/main.7eeffb1e.chunk.css.map": "/RAG-ChatBot/static/css/main.7eeffb1e.chunk.css.map",
+    "static/js/2.e706de12.chunk.js.LICENSE.txt": "/RAG-ChatBot/static/js/2.e706de12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8de15189.js",
+    "static/js/runtime-main.6042c664.js",
     "static/js/2.e706de12.chunk.js",
     "static/css/main.7eeffb1e.chunk.css",
     "static/js/main.fed2775c.chunk.js"
