@@ -1,4 +1,7 @@
 # This is a sample Python script.
+import os
+
+import uvicorn
 from dotenv import load_dotenv
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
@@ -24,6 +27,9 @@ app.add_middleware(
     allow_headers=["*"],  # Allows all headers
 )
 
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)
 settings = Settings()
 
 print(settings.MONGO_URL)
